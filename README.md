@@ -18,7 +18,7 @@
  
  ### Projects Jupyter Notebook list (from 2020 until today):
  
- 01](/_01_bit_masking_w_arduino) #PureSeries - Bit Masking Theory - This sketch blinks inbuild Arduino LED on and off using masking techniques!
+ 01](\_01_bit_masking_w_arduino) #PureSeries - Bit Masking Theory - This sketch blinks inbuild Arduino LED on and off using masking techniques!
 
 
 ### License
