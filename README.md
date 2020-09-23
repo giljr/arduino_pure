@@ -16,3 +16,12 @@
  
  [Kidstronics](https://medium.com/kidstronics)
  
+ ### Projects Jupyter Notebook list (from 2020 until today):
+ 
+ 01](_01_bit_masking_w_arduino) #PureSeries - Bit Masking Theory - This sketch blinks inbuild Arduino LED on and off using masking techniques!
+
+
+### License
+
+[![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)
+
