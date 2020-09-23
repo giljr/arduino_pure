@@ -17,7 +17,7 @@
  
  [Kidstronics](https://medium.com/kidstronics)
  
- ### Projects Jupyter Notebook list (from 2020 until today):
+ ### Projects Arduino Pure C Code list (from 2020 until today):
  
  [01](\_01_bit_masking_w_arduino) #PureSeries - Bit Masking Theory - This sketch blinks the inbuilt Arduino LED on and off using masking techniques!
 
